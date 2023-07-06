@@ -7,22 +7,119 @@
     },
     {
       "id": 2,
-      "name": "Mdisep Download",
-      "email": "https://medisepkerala.com/"
+      "name": "Building Tax/Property Tax",
+      "email": "https://tax.lsgkerala.gov.in/epayment/QuickPaySearch.php"
       
     },
     {
       "id": 3,
-      "name": "Mdisep Download",
-      "email": "https://medisepkerala.com/"
+      "name": "Ownership Certificate",
+      "email": "https://tax.lsgkerala.gov.in/epayment/propertyTaxSearchNew.php"
       
     },
     {
       "id": 4,
-      "name": "Mdisep Download",
-      "email": "https://medisepkerala.com/"
+      "name": "KSEB New Connection",
+      "email": "https://wss.kseb.in/selfservices/ncsLogin.do"
+      
+    },
+    {
+      "id": 5,
+      "name": "Sabarimala Booking",
+      "email": "https://sabarimalaonline.org/#/register"
+      
+    },
+    {
+      "id": 6,
+      "name": "Employment Registration ",
+      "email": "https://eemployment.kerala.gov.in/usr/logins/jobseeker"
+      
+    },
+    {
+      "id": 7,
+      "name": "Land Tax",
+      "email": "https://revenue.kerala.gov.in/"
+      
+    },
+    {
+      "id": 8,
+      "name": "SSC Registration",
+      "email": "https://ssc.nic.in/"
+      
+    },
+    {
+      "id": 9,
+      "name": "Pancard Aadhaar Linking",
+      "email": "https://eportal.incometax.gov.in/iec/foservices/#/pre-login/bl-link-aadhaar"
+      
+    },
+    {
+      "id": 10,
+      "name": "Speed Post Tracking",
+      "email": "https://www.indiapost.gov.in/_layouts/15/dop.portal.tracking/trackconsignment.aspx"
+      
+    },
+    {
+      "id": 11,
+      "name": "Rationcard Services",
+      "email": "https://ecitizen.civilsupplieskerala.gov.in/index.php/c_login"
+      
+    },
+    {
+      "id": 12,
+      "name": "Special Permit for Taxi",
+      "email": "https://vahan.parivahan.gov.in/vahanservice/vahan/ui/statevalidation/homepage.xhtml?statecd=Mzc2MzM2MzAzNjY0MzIzODM3NjIzNjY0MzY2MjM3NGI0Yw=="
+      
+    },
+    {
+      "id": 13,
+      "name": "Special Permit for Taxi",
+      "email": "https://www.aims.kerala.gov.in/cropinsurance"
+      
+    },
+    {
+      "id": 14,
+      "name": "AIMS Registration",
+      "email": "https://www.aims.kerala.gov.in/cropinsurance"
+      
+    },
+    {
+      "id": 15,
+      "name": "PM Kisan New Farmer Registration",
+      "email": "https://pmkisan.gov.in/registrationformnew.aspx"
+      
+    },
+    {
+      "id": 16,
+      "name": "PM Kisan E-kyc",
+      "email": "https://exlink.pmkisan.gov.in/aadharekyc.aspx"
+      
+    },
+    {
+      "id": 17,
+      "name": "KTET Application",
+      "email": "https://ktet.kerala.gov.in/Registration/exam_registration_instructions.php"
+      
+    },
+    {
+      "id": 18,
+      "name": "NEET Applicantion",
+      "email": "https://neet.nta.nic.in/"
+      
+    },
+    {
+      "id": 19,
+      "name": "Encumbrance (Kudikadam)",
+      "email": "https://pearl.registration.kerala.gov.in/ecapln.php?tok=3yskfjk4s44d94"
+      
+    },
+    {
+      "id": 20,
+      "name": "Birth/Death/Marriage Certificate Download Corporation",
+      "email": "https://cr.lsgkerala.gov.in/RegSearch.php"
       
     }
+    
     
     
   ]
