@@ -261,7 +261,7 @@ input[type="radio"] {
 .container1 {
   
   position: relative;
-  height: 70%;
+  height: 40%;
   width: 100%;
   padding: px;
 }
@@ -308,15 +308,14 @@ input[type="radio"] {
 }
 
 .slide-2 {
-  background-image: url("biodata.png");
+  background-image: url("Digital services.png");
 }
 
 .slide-3 {
-  background-image: url("pancard.png");
-}
+  background-image: url("Digital services.png");
 
 .slide-4 {
-  background-image: url("PASSPORT.png");
+  background-image: url("Digital services.png");
 }
 
 /*===================
